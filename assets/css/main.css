@@ -2531,11 +2531,11 @@ input, select, textarea {
 				}
 				/*icon color*/
 				.wrapper.style3 .icon.major:before {
-					color: #31d1e0;
+					color: #adadaa; /*course icon color*/
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #e03131;
+					color: #e0d431;
 				}
 
 /* Image */
@@ -3242,7 +3242,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #5eb9d6;
+			background-color: #92aed6;
 		}
 
 		.wrapper.style3-alt {
@@ -3508,7 +3508,7 @@ input, select, textarea {
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
 		/*#2693b7*/
-		background: #717999;
+		background: #757d8a;
 		cursor: default;
 		height: 100vh;
 		left: 0;
